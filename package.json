@@ -11,5 +11,16 @@
   },
   "author": "Viktor Fazer",
   "license": "ISC",
-  "description": ""
+  "description": "Test npm repo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorKmin/HebronRocketShared.git"
+  },
+  "keywords": [
+    "learn"
+  ],
+  "bugs": {
+    "url": "https://github.com/VictorKmin/HebronRocketShared/issues"
+  },
+  "homepage": "https://github.com/VictorKmin/HebronRocketShared#readme"
 }
